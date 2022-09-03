@@ -1,0 +1,10 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    color:white;
+}
+
+.Cards{
+    display: flex;
+    flex-wrap: wrap; 
+}

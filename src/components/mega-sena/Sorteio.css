@@ -1,0 +1,19 @@
+.botao-sorteio {
+    border-radius: 20px;
+    background-color: #3385c6;
+    color:aliceblue;
+    border:0px;
+    padding: 10px;
+}
+
+.botao-sorteio:hover{
+    background-color: aliceblue;
+    color:#3385c6;
+    border:#3385c6 1px solid;
+    transform: scale(1.02);
+}
+
+.botao-sorteio:active{
+    background-color: #3385c6;
+    color:aliceblue;
+}
